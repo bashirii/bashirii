@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bashiri Idd</h1>
-<h3 align="center">A passionate web developer based in Tanzania. Currently pursuing a Bachelor of Engineering in Computer Engineering. I specialize in building dynamic and responsive web applications using a variety of technologies</h3>
+<img align="center" alt="Profile_banner" src="https://github.com/bashirii/Green-B/blob/main/images/profile_banner.png" />
+<h3 align="center">I'm a web developer based in Tanzania. Currently pursuing a Bachelor of Engineering in Computer Engineering. I specialize in building dynamic and responsive web applications using a variety of technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bashirii&label=Profile%20views&color=0e75b6&style=flat" alt="bashirii" /> </p>
 
