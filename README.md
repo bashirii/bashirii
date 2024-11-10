@@ -9,7 +9,7 @@ I'm a web developer with a passion for building dynamic and responsive web appli
 - 🔍 Looking for: Developer role opportunities in full-stack development
 - 📝 Fun Fact: I enjoy learning about AI and leveraging tools like ChatGPT for problem-solving.
 
-[![](https://visitcount.itsvg.in/api?id=bashirii&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=bashirii&icon=0&color=65)](https://visitcount.itsvg.in)
 
 ## 📫 Contact Me
 
@@ -26,12 +26,8 @@ I'm a web developer with a passion for building dynamic and responsive web appli
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bashirii&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=bashirii&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br />
-![](https://github-readme-streak-stats.herokuapp.com/?user=bashirii&theme=github_dark&hide_border=false)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashirii&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="bashirii/github-readme-stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bashirii&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="bashirii/github-readme-stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bashirii&theme=blue-green&hide_border=false" alt="bashirii/github-readme-stats" /></p>
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
+<hr />
