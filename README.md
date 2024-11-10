@@ -3,11 +3,11 @@
 
 # Hi, I'm Bashir! 👋
 
-I'm a web developer with a passion for building dynamic and responsive web applications. My primary stack includes PHP, Laravel, and MySQL/PostgreSQL, but I'm also delving into new technologies like Vue.js, Redis, and Docker to broaden my skillset.
+Experienced web developer with a focus on creating dynamic, user-friendly, and responsive web applications. Passionate about leveraging innovative tools and techniques to deliver impactful digital experiences.
 
-- 🌱 Currently Learning: Advanced Go concepts, Vue.js, Redis
+<!-- - 🌱 Currently Learning: Advanced Go concepts, Vue.js, Redis
 - 🔍 Looking for: Developer role opportunities in full-stack development
-- 📝 Fun Fact: I enjoy learning about AI and leveraging tools like ChatGPT for problem-solving.
+- 📝 Fun Fact: I enjoy learning about AI and leveraging tools like ChatGPT for problem-solving. -->
 
 [![](https://visitcount.itsvg.in/api?id=bashirii&icon=0&color=3)](https://visitcount.itsvg.in)
 
