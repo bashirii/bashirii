@@ -9,7 +9,7 @@ I'm a web developer with a passion for building dynamic and responsive web appli
 - 🔍 Looking for: Developer role opportunities in full-stack development
 - 📝 Fun Fact: I enjoy learning about AI and leveraging tools like ChatGPT for problem-solving.
 
-[![](https://visitcount.itsvg.in/api?id=bashirii&icon=0&color=65)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=bashirii&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ## 📫 Contact Me
 
