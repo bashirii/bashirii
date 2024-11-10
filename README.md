@@ -15,8 +15,10 @@ Experienced web developer with a focus on creating dynamic, user-friendly, and r
 
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://bashir-portfolio.com) -->
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/bashirii)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bashiriidd3@gmail.com)
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/bashirii) -->
+<!-- [Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) -->
+
+<span style="">bashiriidd3@gmail.com</span>
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bashirii) -->
 
