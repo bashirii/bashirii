@@ -32,4 +32,8 @@ Experienced web developer with a focus on creating dynamic, user-friendly, and r
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bashirii&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="bashirii/github-readme-stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bashirii&theme=blue-green&hide_border=false" alt="bashirii/github-readme-stats" /></p>
 
-<hr />
+<span style="text-align: right;">
+
+Alhamdulillah for every opportunity to learn and grow. 🌱
+
+</span>
