@@ -3,7 +3,7 @@
 
 # Hi, I'm Bashir! 👋
 
-Experienced web developer with a focus on creating dynamic, user-friendly, and responsive web applications. Passionate about leveraging innovative tools and techniques to deliver impactful digital experiences.
+I am a web developer with a focus on creating dynamic, user-friendly, and responsive web applications. Passionate about leveraging innovative tools and techniques to deliver impactful digital experiences.
 
 - 🌱 Currently Learning: Go, Django, Django REST, Redis
   <!-- - 🔍 Looking for: Developer role opportunities in full-stack development -->
@@ -30,8 +30,8 @@ Experienced web developer with a focus on creating dynamic, user-friendly, and r
 
 ## 📈 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashirii&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="bashirii/github-readme-stats" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bashirii&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="bashirii/github-readme-stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashirii&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="bashirii/github-readme-stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bashirii&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" alt="bashirii/github-readme-stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bashirii&theme=blue-green&hide_border=false" alt="bashirii/github-readme-stats" /></p>
 
 ---
