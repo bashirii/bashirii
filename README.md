@@ -5,7 +5,7 @@
 
 I am a web developer with a focus on creating dynamic, user-friendly, and responsive web applications. Passionate about leveraging innovative tools and techniques to deliver impactful digital experiences.
 
-- 🌱 Currently Learning: Go, Django, Django REST, Redis
+  <!-- - 🌱 Currently Learning: Go, Django, Django REST, Redis -->
   <!-- - 🔍 Looking for: Developer role opportunities in full-stack development -->
   <!-- - 📝 Fun Fact: I enjoy learning about AI and leveraging tools like ChatGPT for problem-solving. -->
 
