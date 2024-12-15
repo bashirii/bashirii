@@ -8,6 +8,7 @@ I am a web developer with a focus on creating dynamic, user-friendly, and respon
   <!-- - 🌱 Currently Learning: Go, Django, Django REST, Redis -->
   <!-- - 🔍 Looking for: Developer role opportunities in full-stack development -->
   <!-- - 📝 Fun Fact: I enjoy learning about AI and leveraging tools like ChatGPT for problem-solving. -->
+<!-- <p>&nbsp;<img align="center" src="https://roadmap.sh/card/wide/675703baecc889bb0d80cac5?variant=dark" alt="bashirii/github-readme-stats" /></p> -->
 
 [![](https://visitcount.itsvg.in/api?id=bashirii&icon=0&color=3)](https://visitcount.itsvg.in)
 
