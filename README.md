@@ -33,7 +33,7 @@ I am a web developer with a focus on creating dynamic, user-friendly, and respon
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashirii&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="bashirii/github-readme-stats" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bashirii&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" alt="bashirii/github-readme-stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bashirii&theme=blue-green&hide_border=false" alt="bashirii/github-readme-stats" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bashirii&theme=blue-green&hide_border=false" alt="bashirii/github-readme-stats" /></p> -->
 
 ---
 
