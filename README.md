@@ -6,8 +6,8 @@
 
 <div align="center">
   <h1>Assalamu alaykum! I'm Bashir 👋</h1>
-  <h3>Full-Stack Web Developer</h3>
-  <p>Passionate about creating dynamic, user-friendly, and responsive web applications.</p>
+  <h3>Backend Developer & API Architect</h3>
+  <p>Passionate about building scalable backend systems, RESTful APIs, and microservices using Go, Python, and PHP. Experienced with multiple databases, caching solutions, and distributed systems.</p>
   <!-- <img src="https://visitcount.itsvg.in/api?id=bashirii&icon=5&color=0&labelColor=0" alt="Profile Views" /> -->
 </div>
 
