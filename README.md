@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Assalamu alaykum! I'm Bashir 👋</h1>
+  <h1>Assalamu alaykum! I'm Bashiri 👋</h1>
   <h3>Backend Developer & API Architect</h3>
   <p>Passionate about building scalable backend systems, RESTful APIs, and microservices using Go, Python, and PHP. Experienced with multiple databases, caching solutions, and distributed systems.</p>
 </div>
