@@ -43,4 +43,4 @@ Need a reliable API, a modern Angular front end, or a system that is deployed an
 
 ## Contact
 
-[bashiriidd3@gmail.com](mailto:bashiriidd3@gmail.com)
+[bashiriidd3@gmail.com](mailto:bashiriidd3@gmail.com) · [Upwork](https://www.upwork.com/freelancers/~01ed1c31d5714a014f)
