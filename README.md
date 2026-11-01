@@ -1,35 +1,46 @@
-<div align="center">
-  <h1>Assalamu alaykum! I'm Bashiri 👋</h1>
-  <!-- <h3>Backend Developer & API Architect</h3> -->
-  <h3>Backend Developer</h3>
-  <p>Passionate about building scalable backend systems, RESTful APIs, and microservices using Go, Python, and PHP. Experienced with multiple databases, caching solutions, and distributed systems.</p>
-</div>
+# Bashiri Idd
 
----
+**Backend and Full-Stack Developer**
 
-## 📫 Contact
+Need a reliable API, a modern Angular front end, or a system that is deployed and monitored properly? I build backend and full-stack web systems, put them on servers, and keep them observable.
 
-<div align="center">
-  <a href="mailto:bashiriidd3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/bashirii">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+## What I can help with
 
----
+- **Backend and APIs:** FastAPI, Django, Laravel and Go services, with PostgreSQL, MySQL and Redis
+- **Front ends:** Angular applications and Livewire interfaces
+- **Deployment and monitoring:** Docker on Contabo and DigitalOcean servers, with Prometheus, Grafana and exporters
+- **Existing systems:** customizing open-source and existing software to add the features a client needs
+- **WordPress and e-commerce:** Elementor, Listivo, WooCommerce and AzamPay payments
+- **AI integration:** calling model APIs, text-to-speech and agents
+- **Documentation:** requirements, architecture and operations documents for the systems I build
 
-<!-- 
-## 🛠️ Tech Stack
+## Tech stack
 
-| Languages | Backend | Databases | Frontend | Tools & Cloud |
-|-----------|---------|-----------|----------|---------------|
-| ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=flat&logo=livewire&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Go Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=flat&logo=go&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=grpc&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) |
+| Area | Tools |
+|------|-------|
+| Languages | Python, Go, PHP, TypeScript, HTML, CSS |
+| Backend | FastAPI, Django, Laravel, Livewire, Go Fiber, gRPC |
+| Frontend | Angular, Tailwind CSS, Bootstrap |
+| Data | PostgreSQL, MySQL, MariaDB, Redis, Elasticsearch, SQLite |
+| Monitoring | Prometheus, Grafana, node, Redis and PostgreSQL exporters, cAdvisor, Loki, Tempo, Traefik |
+| Deployment | Docker, Git, Linux servers, Contabo, DigitalOcean |
+| WordPress | Elementor, Listivo, WooCommerce, AzamPay |
+| AI | Model APIs, text-to-speech, agents |
 
----
--->
+## Selected work
 
-<div align="right">
-  <p><em>Alhamdulillah for every opportunity to learn and grow. 🌱</em></p>
-</div>
+- [chacc-api](https://github.com/bashirii/chacc-api): FastAPI and async SQLAlchemy service (contributor)
+- [chacc-authentication](https://github.com/bashirii/chacc-authentication): authentication module for the same platform (contributor)
+- [redis_exporter](https://github.com/bashirii/redis_exporter): Prometheus exporter for Redis and Valkey metrics
+- [golang-clean-code-structure-template](https://github.com/bashirii/golang-clean-code-structure-template): Go project template with a clean structure
+- [Kokoro-TTS-FastAPI](https://github.com/bashirii/Kokoro-TTS-FastAPI): FastAPI service for text-to-speech
+- [qrcode-generator-app-flask](https://github.com/bashirii/qrcode-generator-app-flask): QR code generator in Flask
+
+## Organizations
+
+- Worked with: [Smart-Ino Engineering](https://github.com/smart-Ino-Engineering), [TNet-Tech](https://github.com/TNet-Tech)
+- Building: [ZIB TechSquare](https://github.com/ZIB-TechSquare)
+
+## Contact
+
+[bashiriidd3@gmail.com](mailto:bashiriidd3@gmail.com)
