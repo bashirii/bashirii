@@ -8,9 +8,9 @@ Need a reliable API, a modern Angular front end, or a system that is deployed an
 
 - **Backend and APIs:** FastAPI, Django, Laravel and Go services, with PostgreSQL, MySQL and Redis
 - **Front ends:** Angular applications and Livewire interfaces
-- **Deployment and monitoring:** Docker on Contabo and DigitalOcean servers, with Prometheus, Grafana and exporters
+- **Deployment and monitoring:** Docker on Contabo and DigitalOcean servers, with Prometheus, Grafana, Alertmanager (Slack and email alerts) and exporters
 - **Existing systems:** customizing open-source and existing software to add the features a client needs
-- **WordPress and e-commerce:** Elementor, Listivo, WooCommerce and AzamPay payments
+- **WordPress development:** Elementor, Listivo, WooCommerce and AzamPay payments
 - **AI integration:** calling model APIs, text-to-speech and agents
 - **Documentation:** requirements, architecture and operations documents for the systems I build
 
@@ -22,9 +22,9 @@ Need a reliable API, a modern Angular front end, or a system that is deployed an
 | Backend | FastAPI, Django, Laravel, Livewire, Go Fiber, gRPC |
 | Frontend | Angular, Tailwind CSS, Bootstrap |
 | Data | PostgreSQL, MySQL, MariaDB, Redis, Elasticsearch, SQLite |
-| Monitoring | Prometheus, Grafana, node, Redis and PostgreSQL exporters, cAdvisor, Loki, Tempo, Traefik |
+| Monitoring | Prometheus, Grafana, Alertmanager (alerts to Slack and email), node, Redis and PostgreSQL exporters, cAdvisor, Loki, Tempo, Traefik |
 | Deployment | Docker, Git, Linux servers, Contabo, DigitalOcean |
-| WordPress | Elementor, Listivo, WooCommerce, AzamPay |
+| WordPress development | Elementor, Listivo, WooCommerce, AzamPay |
 | AI | Model APIs, text-to-speech, agents |
 
 ## Selected work
